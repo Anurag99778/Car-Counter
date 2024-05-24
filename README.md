@@ -2,6 +2,11 @@
 
 This project involves detecting and counting vehicles (cars, trucks, buses, and motorbikes) crossing a defined line in a video. The counting is done using a YOLO (You Only Look Once) model for object detection, and the results are tracked using the SORT (Simple Online and Realtime Tracking) algorithm. Each time a vehicle crosses the line, the count is incremented and stored in a MySQL database.
 
+## demo
+
+
+[![Car Counting Project Demo](
+https://img.youtube.com/vi/5SFHooiqYQY/0.jpg)](https://youtu.be/5SFHooiqYQY)
 ## Features
 
 - Vehicle detection using YOLOv8
